@@ -81,3 +81,13 @@ Plataforma de administración con inventario, usuarios, ventas y facturación el
 `Liderazgo` `Comunicación` `Organización` `Resolución de problemas` `Gestión del tiempo` `Trabajo en equipo` `Trabajo bajo presión` `Adaptabilidad` `Ética de trabajo`
 
 ---
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
