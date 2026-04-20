@@ -44,23 +44,6 @@ Desde apps móviles con detección de fatiga en tiempo real hasta plataformas de
 
 ---
 
-## Experiencia
-
-**Desarrollador Web Full-Stack** — Farmacias Sangalli `Nov 2024 – Feb 2025`
-
-Plataforma de administración con inventario, usuarios, ventas y facturación electrónica integrada con SIAT.
-`MySQL` `PHP` `HTML/CSS/JS`
-
----
-
-## Proyectos
-
-| Proyecto | Stack | Período |
-|---|---|---|
-| **Detección de Fatiga en Conductores** — App móvil con IA, detecta somnolencia en tiempo real con alertas y geolocalización | `Kotlin` `ML` `Mapbox` | Sep–Oct 2025 |
-| **Sistema de Ventas — La Cascada** — Web + app para repartidores con pedidos, ventas y rutas optimizadas en tiempo real | `Node.js` `Android` `MySQL` | Ago–Nov 2025 |
-| **Fiestas Patrimoniales de Bolivia** — Consulta y gestión por departamento y fecha | `C#` `SQL Server` | Abr–Jun 2025 |
-| **Plataforma Farmacias Sangalli** — Inventario, ventas y facturación electrónica con SIAT | `PHP` `MySQL` `JS` | Nov 24–Feb 25 |
 
 ## 🛠️ Tecnologías
 
@@ -86,3 +69,21 @@ Plataforma de administración con inventario, usuarios, ventas y facturación el
 </div>
 
 ---
+
+## Experiencia
+
+**Desarrollador Web Full-Stack** — Farmacias Sangalli `Nov 2024 – Feb 2025`
+
+Plataforma de administración con inventario, usuarios, ventas y facturación electrónica integrada con SIAT.
+`MySQL` `PHP` `HTML/CSS/JS`
+
+---
+
+## Proyectos
+
+| Proyecto | Stack | Período |
+|---|---|---|
+| **Detección de Fatiga en Conductores** — App móvil con IA, detecta somnolencia en tiempo real con alertas y geolocalización | `Kotlin` `ML` `Mapbox` | Sep–Oct 2025 |
+| **Sistema de Ventas — La Cascada** — Web + app para repartidores con pedidos, ventas y rutas optimizadas en tiempo real | `Node.js` `Android` `MySQL` | Ago–Nov 2025 |
+| **Fiestas Patrimoniales de Bolivia** — Consulta y gestión por departamento y fecha | `C#` `SQL Server` | Abr–Jun 2025 |
+| **Plataforma Farmacias Sangalli** — Inventario, ventas y facturación electrónica con SIAT | `PHP` `MySQL` `JS` | Nov 24–Feb 25 |
