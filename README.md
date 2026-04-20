@@ -80,14 +80,9 @@ Plataforma de administración con inventario, usuarios, ventas y facturación el
 
 `Liderazgo` `Comunicación` `Organización` `Resolución de problemas` `Gestión del tiempo` `Trabajo en equipo` `Trabajo bajo presión` `Adaptabilidad` `Ética de trabajo`
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayki71&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&bg_color=0d1117&title_color=4d9de0&icon_color=4d9de0&text_color=c9d1d9&border_color=1e3a5f" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayki71&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=false&bg_color=0d1117&title_color=4d9de0&text_color=c9d1d9&border_color=1e3a5f&hide=css" height="150" alt="languages graph" />
+</div>
+
 ---
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
